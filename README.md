@@ -1,2 +1,2 @@
-# yastr
-yet another c++ string library.
+# yalib
+yet another c++ library.
